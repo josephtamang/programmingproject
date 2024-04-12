@@ -259,7 +259,7 @@ table.column('pi',width=100)
 table.column('pn',width=100)
 table.column('dob',width=100)
 table.column('pa',width=100)
-
 table.bind('<ButtonRelease-1>',get_data)
 fetch_data()
 win.mainloop()
+
