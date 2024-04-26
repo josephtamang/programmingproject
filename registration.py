@@ -10,7 +10,10 @@ root.maxsize(width=1520, height=900)
 root.minsize(width=1520, height=900)
 root.config(bg='lightgrey')
 
+   
 
+
+   
 
 
 #frame
